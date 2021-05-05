@@ -1,0 +1,1 @@
+Patients who have NAFLD, have the potential to progress to the later stages of liver disease when fibrotic scarring is present in their liver. In this analysis, we look at using metabolomic data (small molecule abundance) and microbiome data (relative abudnce of taxa) to build machine learning models to classify advanced fibrosis status in patients.

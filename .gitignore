@@ -1,0 +1,6 @@
+.DS_Store
+Icon?
+*.gdoc
+/project_slides/*
+/old_analyses/*
+/thesis_material/*
