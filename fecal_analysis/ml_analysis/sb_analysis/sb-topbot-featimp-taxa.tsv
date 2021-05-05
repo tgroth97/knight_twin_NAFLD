@@ -1,0 +1,51 @@
+feat importance	hashedID	featueID	ATTRIBUTE_adv_fibrosis[T.1]	kingdom	superclass	class	subclass	direct_parent
+0.020502778368346915	cdf8d23687cfc324485e2bd3e0094ff2	1019	4.60524305574063	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters
+0.028816951373182593	fb758530086adf438d5ebe8f83847f2d	1022	4.2802699493563505	unclassified	unclassified	unclassified	unclassified	unclassified
+0.014118602908326046	d2ef3361261cc1d835ad59394bfe161c	1018	4.25355180970792	unclassified	unclassified	unclassified	unclassified	unclassified
+0.01587280192987821	0ba75f593218ef056eefaeab285ae839	1017	4.12022074929837	unclassified	unclassified	unclassified	unclassified	unclassified
+0.02084253313880574	3d7f155024af16ecbe4c9baefdd571be	157	3.9252732681429796	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Phenylalanine and derivatives
+0.04403412029012842	c0095c69fee5c767903814b366fcb860	1021	3.5069219755328103	unclassified	unclassified	unclassified	unclassified	unclassified
+0.020097545992423325	54e3ef405d9d82cfed4858f3191c2522	983	3.0818279670870696	unclassified	unclassified	unclassified	unclassified	unclassified
+0.033278685875862565	6ba039413a4b798ba234b05c568ff300	805	3.01255997888211	unclassified	unclassified	unclassified	unclassified	unclassified
+0.04489707654450156	53cb1796cbb423bcd59853acdf63befe	1023	2.93347015849713	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	1,2-aminoalcohols
+0.05882876532590931	f7dd0dbd9e8f975d44295498a1c3aa85	806	2.93133208028439	unclassified	unclassified	unclassified	unclassified	unclassified
+0.01371586178062055	2edf779ef11d889a9532e620fda1bbf2	865	2.78807809821729	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	Fatty amides
+0.03043137790828907	144080b4b2ddd9a2ccc1c5c8d094e2db	558	2.7573379563486897	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Dipeptides
+0.013235253061927523	9e2c7416a860af0b0d508dba6fc92435	1232	2.6771177338755496	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	Diterpenoids
+0.02978199692646251	41ac582194f67aa6ab674ec82573c2b5	165	2.65293344728116	unclassified	unclassified	unclassified	unclassified	unclassified
+0.012801163774844701	db77705855bc4611e9c4fedca4b4f926	1025	2.6314443039095803	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Oligopeptides
+0.0254909011349207	2185af0fb67a28d45ca0b367331adc90	159	2.63042345515851	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Leucine and derivatives
+0.05711535466505345	5852572a553ed731a4e55f2f31166213	163	2.55172785989407	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids
+0.012995656603608604	0c959ee3a5a474df1114c327dd8cdcac	478	2.5193398880160203	unclassified	unclassified	unclassified	unclassified	unclassified
+0.001261696732099062	8906c43cbd5e72d65ed9e7aacd1c2321	361	2.50716778508786	unclassified	unclassified	unclassified	unclassified	unclassified
+0.07554005616534114	94339fd999feeede310ccc2e5c29c13b	80	2.43441498152379	unclassified	unclassified	unclassified	unclassified	unclassified
+0.027125945352505388	5b4e936782da10249603e94105689a6f	155	2.4004757689631404	unclassified	unclassified	unclassified	unclassified	unclassified
+0.06451626254509732	4deeef4aa3231abf469afec860b7b1ea	480	2.3777116524374904	unclassified	unclassified	unclassified	unclassified	unclassified
+0.00613378538032504	4508ce20c9b99a6e1c24fd3afdbc1e2f	1028	2.2950922536051603	unclassified	unclassified	unclassified	unclassified	unclassified
+0.12099004258545215	2984aa4bc8addecd801f5101d8dd139b	318	2.2937860178149103	unclassified	unclassified	unclassified	unclassified	unclassified
+0.019980204933051606	6383ad32dcb0746a9105d5b2889e4d94	360	2.2832414495146605	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal alkaloids	Spirosolanes and derivatives
+0.00586365107255954	901b6e2bf2d45cfa9b38a99784cd0459	931	-6.81677952535983	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	Carboxylic acid esters
+0.008077723135113	2eb15a6e35d5214137b1f0571d4c31b2	953	-6.950390250762661	unclassified	unclassified	unclassified	unclassified	unclassified
+0.011332190913926796	ae800abf76b2463f243462d0087f24be	432	-6.970082671722139	unclassified	unclassified	unclassified	unclassified	unclassified
+0.008701064147558606	87b2ee3ab5930cf0663d663ff1b3c524	14	-6.97008744009372	Organic compounds	Benzenoids	Phenol ethers	unclassified	Phenol ethers
+0.00819709675819952	c4072a4cebaed2ae18764f402d5b8c43	632	-6.97846165426608	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	Long-chain fatty alcohols
+0.003566310062912364	5d6c8094421e22fa24e09de3169f49b4	932	-7.0322279048764305	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0007492993850575922	2979c877ea3a9babda609affb260668c	591	-7.15751305349704	unclassified	unclassified	unclassified	unclassified	unclassified
+0.004779043592475557	c1aa71656d6e2ef3535930d0b09ca012	662	-7.16561928518649	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids
+0.0032123419587195418	71b646c82731aa8e14f60ee428337721	421	-7.313859374603	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylacetamides	Phenylacetamides
+0.007146192801885117	2fc1c858776003addaf081a465cda6d7	334	-7.32340851553317	unclassified	unclassified	unclassified	unclassified	unclassified
+0.004844601970949035	b1641320e489f96bb9ddd6b08a7e574e	828	-7.390083701690401	unclassified	unclassified	unclassified	unclassified	unclassified
+0.007013745516907238	9485b85b5c81043b85a849131809c92b	693	-7.42163697012302	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Bile acids, alcohols and derivatives
+0.008895248093245175	9b58756d5fe505a4cd0ab4917e5e3ce3	365	-7.490774543365201	unclassified	unclassified	unclassified	unclassified	unclassified
+0.007821412154800084	f3c9367e79341d7de4456c32b588b86f	1109	-7.62277260549899	unclassified	unclassified	unclassified	unclassified	unclassified
+0.011780956604513256	832c0802efe61204586cbbefee574d43	589	-7.6467489314877595	Organic compounds	Alkaloids and derivatives	Harmala alkaloids	unclassified	Harmala alkaloids
+0.0014210428538233898	d49b933216498ccb080d8aa7ce5d3902	395	-7.69290581472751	unclassified	unclassified	unclassified	unclassified	unclassified
+0.01373637302666701	35def52a34fbd75d08ef99a87b5251da	568	-7.777491004546841	Organic compounds	Organoheterocyclic compounds	Benzopyrans	1-benzopyrans	2,2-dimethyl-1-benzopyrans
+0.005554267554943995	c105049a81dcab19d86f141a691ab5fb	892	-7.83267441519138	unclassified	unclassified	unclassified	unclassified	unclassified
+0.004550043825803631	28a02f8e5fcae1d3b8d41678bf1276fd	410	-7.8574327541196	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives
+0.0006860055473300058	2ed762ffceda0c2dc67e9ae95d1fb858	235	-7.926937491973599	unclassified	unclassified	unclassified	unclassified	unclassified
+0.005923873965540808	178929d3e7f149a19dbd6b0edc66633b	240	-8.168733031829559	Organic compounds	Lipids and lipid-like molecules	Sphingolipids	Ceramides	Ceramides
+0.01063907937816771	076048a24f2e01c5f6b07bfcde6bbcd5	1055	-8.26623860128757	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Alpha amino acid esters
+0.007367366843645055	d2db4c8806f5f6a40fee293cb4f88f7d	952	-8.551991851409639	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Monohydroxy bile acids, alcohols and derivatives
+0.026954536101463658	7d77e5a1807f89e7ee7cf109a12d0048	464	-8.617379577239719	unclassified	unclassified	unclassified	unclassified	unclassified
+0.008781111436828713	8e1376b2f43f2b926aa075c7f8c32783	97	-9.081427962859829	unclassified	unclassified	unclassified	unclassified	unclassified
