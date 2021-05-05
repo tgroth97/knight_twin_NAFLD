@@ -1,0 +1,51 @@
+feat importance	hashedID	featueID	ATTRIBUTE_adv_fibrosis[T.1]	kingdom	superclass	class	subclass	direct_parent
+0.05885156936603739	cad6579a4a3666ba17eb7df0f0a49deb	108	4.25041294769309	unclassified	unclassified	unclassified	unclassified	unclassified
+0.028442628767280733	7dd110cefad8f55e39e353c5389a1a98	83	4.242195374527189	unclassified	unclassified	unclassified	unclassified	unclassified
+0.024182736561159934	26264d872b76e26a3e261e0d183b8a3d	289	4.22813535408041	unclassified	unclassified	unclassified	unclassified	unclassified
+0.024385327431861996	bdc8f0f8e01251da0dbaba2975b4bb74	209	4.21633601860068	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	1-acyl-sn-glycero-3-phosphocholines
+0.016824819409698072	acb7269def0f8dc125ceb679f1e5b9eb	1568	4.21501661018393	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0903010553599298	ddbebd551cdb2e3c0f0cc1126e09cec9	206	4.21304798797629	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	1-monoacylglycerols
+0.030953750038145673	0b141fb48147d2ce28d648bec618a6f3	944	4.19505000785849	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Oligopeptides
+0.012135854590925687	fdf542c1a2630650497b4621a2ca1794	107	4.16538358406088	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohol esters	Fatty alcohol esters
+0.02153243665538283	1168832a5ac4cca6207f0a6b50571e7b	252	4.14793611244223	unclassified	unclassified	unclassified	unclassified	unclassified
+0.035839143029634486	d9d6101115a042aa9f0be2055fbe8cfe	262	4.14271283821127	unclassified	unclassified	unclassified	unclassified	unclassified
+0.048795018121839645	b966f31e7c82f28fa507ea6b59ab68a8	66	4.13406897262595	Organic compounds	Organoheterocyclic compounds	Benzimidazoles	Sulfinylbenzimidazoles	Sulfinylbenzimidazoles
+0.06377638416621312	64c8b2818610a935ba2d92314954f71a	118	4.12790489868186	unclassified	unclassified	unclassified	unclassified	unclassified
+0.03346991242889921	6a3118421319b441adbe2b6a7b9934c4	34	4.12521911338828	unclassified	unclassified	unclassified	unclassified	unclassified
+0.045682909489155855	bb993e507a004e4e684cd3d88d62c6cf	97	4.12451744750998	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters
+0.01644634688929058	ba46cfc322526c784c38a1217d0b752f	5	4.12131667808554	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	1-acyl-sn-glycero-3-phosphocholines
+0.007806319882274078	baba1d9828911ebb128f9adba8c35190	7	4.12083793357871	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	1-acyl-sn-glycerol-2,3-cyclic-phosphates
+0.016345372992632622	6ab0df6d84e8ce7515c8b21c732541d0	213	4.11990404800436	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	1-acyl-sn-glycero-3-phosphocholines
+0.03270102315672994	c47e4e9cc476ee61c1f457182fb74614	194	4.1097924776460895	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylmethanes	Diphenylmethanes
+0.04581163139594083	1f1b22a05aa99c058ea05146ec376d40	113	4.10616398529074	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	1-alkyl,2-acylglycero-3-phosphocholines
+0.07588710798029609	9956fce4de225911b1be10f75dbe6795	286	4.09189797119162	Organic compounds	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives	Organosulfonic acids
+0.018316661095419278	ee905a1360a5fe12c4181f827ed30c62	359	4.08463860229514	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hippuric acids
+0.06308609573948308	58f8f9d0cf4dea5444e3206e921b7d1a	162	4.07295728401206	unclassified	unclassified	unclassified	unclassified	unclassified
+0.049850357151456415	88fa47cc85f29778510275eeb48706ef	60	4.0569346018221095	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	1,2-aminoalcohols
+0.02426236342905044	dd69c55e65f3b5ff454e54078f44d9b3	188	4.05491877273581	unclassified	unclassified	unclassified	unclassified	unclassified
+0.01284519285864775	fe8cbb81d1abec83ba4cc2e9f82dd552	130	4.04742837623618	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenoxy compounds	Phenoxy compounds
+0.0020245953965067494	a557def0676dfacbbe87abfea20d4f1a	5321	-5.19658684059122	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indolyl carboxylic acids and derivatives
+0.006601187832219369	029382fc50a5371c7578fbed50d05276	5278	-5.26262878700235	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives
+0.004369939952931598	0b87ad4159d792402d2f3b8e8acf36de	5616	-5.345962279281402	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines
+0.0014197707714779155	c1e499270a3267b265f13e15584477db	5576	-5.35262989326456	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0034918421268028354	6bf91ecf72f860371adef182b64aca97	4783	-5.49455332084634	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0018166886994375984	a11624bf7e6b6815b7124de55c70b4e6	4829	-5.513430350265289	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	Glycerophosphoethanolamines
+0.0038841045898859437	57ec08383a815cb149d9bd805cc9957e	5548	-5.65388368888834	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Diradylglycerols	1,2-diacylglycerols
+0.0031846583930784326	7d9118a20c5ec3d6530d632c53e2b385	5540	-5.807802908859039	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0061145313164807985	75cc73f2affab551b963f8ab93b91777	4754	-5.833946936569	unclassified	unclassified	unclassified	unclassified	unclassified
+0.004867877285384387	4cba51d6eee86e99d87be03399ec73e1	5546	-5.840089552840968	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	1-monoacylglycerols
+0.00860673234727164	015bcc773d2fe77d5ddf3533aff00a9f	4725	-5.86437296195962	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	Phenylalanine and derivatives
+0.017615689005041957	298c91988f30b1b6e55589f12360b3de	5610	-5.94706749244668	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0003324964492286418	6416ede3df732205a0b29e92cc7b70c5	5405	-5.9625451497648	Organic compounds	Organoheterocyclic compounds	Benzodioxoles	unclassified	Benzodioxoles
+0.0006185571346540338	05e765450e243def9ae248d02c9cd2d6	5691	-6.07814907356241	Organic compounds	Organic acids and derivatives	Organic phosphonic acids and derivatives	unclassified	Organic phosphonic acids and derivatives
+0.003584542028879066	33ecc34d77fd7a3632108eebc0edbf75	5615	-6.09723638816812	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Trihydroxy bile acids, alcohols and derivatives
+0.0014460880045362194	b68a2d79ac17951fecf0cd61dcd35fc9	5286	-6.11460565849283	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	1-acylglycerol-3-phosphates
+0.004092015134461625	4beef38ed3ab87298364ead636e6d362	4825	-6.175027602157379	unclassified	unclassified	unclassified	unclassified	unclassified
+0.01043034518507548	e1d875e53a06cc8eb77afff7f1bfc7b3	5533	-6.243329756698389	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid methyl esters
+0.0035037287245508466	2ce5139cc98a0f3f7f3a9dde610d8880	5550	-6.413936846694732	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Dihydroxy bile acids, alcohols and derivatives
+0.0006069531588674063	823ffd21b56164e8607371863a978847	5542	-6.843183272323389	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0010131491826312013	995d6a432ac22dda5ea8d3140d0e4ba0	5541	-7.186909907302638	unclassified	unclassified	unclassified	unclassified	unclassified
+0.0027854326315070012	3f1b213dc2631e35a4b6c4859b78e1d6	5317	-7.30611013694742	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids
+0.00043587657869871316	f767cb02289ade2bc74878a4f5f91b51	3667	-7.486649268111969	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives
+0.0028399530358381164	ffc858cfa01fda2a2b2c0a1344a0b87a	3670	-7.63145040794351	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	Glycerophosphocholines
+0.005781227047167006	b46d20bff60228f3172b9bcff1e0853c	5535	-7.9820783071134285	unclassified	unclassified	unclassified	unclassified	unclassified
